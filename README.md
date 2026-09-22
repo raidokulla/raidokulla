@@ -3,13 +3,11 @@
 <h3 align="center">Full Stack Software Engineer • Building Software Since 2014</h3>
 
 <p align="center">
-I build reliable, secure, and maintainable software — from new products to complex business-critical systems.
+I build reliable, secure, and maintainable software - from new products to complex business-critical systems.
 </p>
 
 <p align="center">
 <a href="mailto:raido@branchline.ee">Email</a>
-&nbsp;•&nbsp;
-<a href="https://lcdating.com">lcdating.com</a>
 </p>
 
 ---
