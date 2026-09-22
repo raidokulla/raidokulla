@@ -91,14 +91,6 @@ Beyond writing application code, I spend a lot of time improving the systems aro
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raidokulla&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Get in Touch
 
 **Branchline**
